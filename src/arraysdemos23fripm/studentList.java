@@ -2,6 +2,7 @@
 package arraysdemos23fripm;
 
 //Comment added 1:29pm
+//friday 
 public class studentList {
     public static void main(String[] args){
         Student s1 = new Student("s1","ronak");
